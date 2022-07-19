@@ -1,7 +1,3 @@
-"""
-HoCo: Scraping prices for all articles with specific configuration.
-"""
-
 from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.by import By
